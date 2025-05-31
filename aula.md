@@ -1,0 +1,1 @@
+nano nomedoarquivo => abrir bloco de notas nesse arquivo
